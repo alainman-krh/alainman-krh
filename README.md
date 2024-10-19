@@ -3,13 +3,21 @@
 [InfoShare]: <https://github.com/alainman-krh/InfoShare>
 [InfoShare-HobbyElectronics]: <https://github.com/alainman-krh/InfoShare-HobbyElectronics>
 [InfoShare-Bin]: <https://github.com/alainman-krh/InfoShare-Bin>
+[PROJ_MediaRemote]: <https://github.com/alainman-krh/Projects_Circuits/blob/main/PCMediaRemote/README.md>
 [AVglue]: <https://github.com/alainman-krh/AVglue>
+[MyState]: <https://github.com/alainman-krh/MyState>
 [TVnymph]: <https://github.com/alainman-krh/TVnymph>
 
-| Maker platforms | (🚧️: Under development) |
+| Maker projects | Computer/microcontroller/circuit - based  |
 | :--- | :--- |
-| [AVglue] | 🚧️ Streamline your computer-based workflow (and other equipment) |
+| [PC Media Remote][PROJ_MediaRemote] | Media remote receiver for your PC/MAC/thing supporting keyboard media keys. |
+
+| u/python libraries | Computer/microcontroller/circuit - based |
+| :---      | :--- |
+| [AVglue]  | 🚧️ Streamline your computer-based workflow (and other equipment) |
+| [MyState] | 🚧️ Framework to simplify configuration and control of appliance-like devices. |
 | [TVnymph] | 🚧️ Quickly reconfigures TV/AV setup for different purposes (satellite TV, net radio, etc) |
+| Legend    | 🚧️: Under development |
 
 | Informational |   |
 | :--- | :--- |
